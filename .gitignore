@@ -1,0 +1,13 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.profile
+.wget-hsts
+data/
