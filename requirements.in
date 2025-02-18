@@ -1,0 +1,10 @@
+shapely
+pyproj
+geopandas
+matplotlib
+pandas
+numpy
+folium
+basemap
+contextily
+pyspark
